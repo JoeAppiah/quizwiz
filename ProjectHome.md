@@ -1,0 +1,3 @@
+This project is designed to help demonstrate to developers of ASP.NET web applications how different vulnerabilities in their code could lead to compromise of their application.
+
+The project hopes to build something comparable to Webgoat but with ASP.NET as the target platform. Currently a companion blog is being grown to discuss the vulnerabilities that will be incorporated in to this application: http://eagle-site.blogspot.com/
